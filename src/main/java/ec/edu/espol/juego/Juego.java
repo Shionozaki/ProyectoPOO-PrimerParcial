@@ -8,7 +8,7 @@ package ec.edu.espol.juego;
  *
  * @author user
  */
-public class Juego {
+public class JuegoDomino{
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
