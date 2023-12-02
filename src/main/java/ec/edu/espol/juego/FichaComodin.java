@@ -6,26 +6,8 @@ package ec.edu.espol.juego;
 
 /**
  *
- * @author Allan
+ * @author user
  */
-public class FichaComodin extends Ficha {
-
-    public FichaComodin()
-    {
-        super(-1,-1);
-    }
-
-    public void setLado1(int lado1) {
-        this.lado1 = lado1;
-    }
-
-    public void setLado2(int lado2) {
-        this.lado2 = lado2;
-    }
-    
-    public String toString()
-    {
-        return "*"+super.toString()+"*";
-    }
+public class FichaComodin {
     
 }
